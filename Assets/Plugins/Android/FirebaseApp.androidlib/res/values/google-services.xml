@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">454551139543</string>
+  <string name="google_storage_bucket" translatable="false">tigfor-453d8.appspot.com</string>
+  <string name="project_id" translatable="false">tigfor-453d8</string>
+  <string name="google_api_key" translatable="false">AIzaSyCOBY5tjtejSre808XWe6xh75pAIB4-kMQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOBY5tjtejSre808XWe6xh75pAIB4-kMQ</string>
+  <string name="google_app_id" translatable="false">1:454551139543:android:613fa7078e004b20526c92</string>
+</resources>

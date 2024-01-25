@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "454551139543",
+    "project_id": "tigfor-453d8",
+    "storage_bucket": "tigfor-453d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454551139543:android:613fa7078e004b20526c92",
+        "android_client_info": {
+          "package_name": "com.forti.clicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBY5tjtejSre808XWe6xh75pAIB4-kMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454551139543:android:ebc47feb0c81c228526c92",
+        "android_client_info": {
+          "package_name": "com.forti.clicker.huawei"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBY5tjtejSre808XWe6xh75pAIB4-kMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454551139543:android:e4c05b4b35a85fe0526c92",
+        "android_client_info": {
+          "package_name": "com.forti.clicker.mi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBY5tjtejSre808XWe6xh75pAIB4-kMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
